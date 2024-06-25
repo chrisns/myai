@@ -181,7 +181,7 @@ pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycparser==2.22
 pycryptodomex==3.20.0
-pydantic==2.7.3
+pydantic==2.7.4
 pydantic_core==2.20.0
 PyDrive==1.3.1
 Pygments==2.18.0
