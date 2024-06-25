@@ -172,7 +172,7 @@ prometheus_client==0.20.0
 prompt_toolkit==3.0.46
 proto-plus==1.23.0
 protobuf==5.27.2
-psutil==5.9.8
+psutil==6.0.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==16.1.0
