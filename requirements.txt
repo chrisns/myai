@@ -125,7 +125,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 minijinja==2.0.1
 mistune==3.0.2
-mlx==0.15.0
+mlx==0.15.2
 mlx_embedding_models==0.0.9
 mmh3==4.1.0
 monotonic==1.6
