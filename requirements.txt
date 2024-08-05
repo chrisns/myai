@@ -23,7 +23,7 @@ certifi==2024.6.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 chroma-hnswlib==0.7.3
-chromadb==0.5.4
+chromadb==0.5.5
 click==8.1.7
 coloredlogs==15.0.1
 comm==0.2.2
