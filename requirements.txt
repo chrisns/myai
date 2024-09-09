@@ -69,7 +69,7 @@ huggingface-hub==0.23.5
 humanfriendly==10.0
 idna==3.7
 importlib_metadata==7.1.0
-importlib_resources==6.4.0
+importlib_resources==6.4.5
 ipycache @ git+https://github.com/rossant/ipycache@906d8ee9e201ab2bc4029fd4d47d4bff5bb64b52
 ipykernel==6.29.4
 ipython==8.25.0
